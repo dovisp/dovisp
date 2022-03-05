@@ -1,5 +1,5 @@
 
-Hi! My name is Dovis and I'm trying to make a game ;D
+Hi! My name is Dovis and I was trying to make a game ;D
 #
 #
 #
