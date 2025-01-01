@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.2">
   <diagram name="Page-1" id="XEOpHoE3BRfAYlgCEt5Q">
-    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,10 +47,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I2VqF09D4UTZwoBSRC8Y-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fillStyle=dashed;gradientColor=none;strokeWidth=4;strokeColor=#DD7FFF;" vertex="1" parent="1">
-          <mxGeometry x="240" y="210" width="390" height="390" as="geometry" />
+          <mxGeometry x="240" y="185" width="390" height="390" as="geometry" />
         </mxCell>
         <mxCell id="I2VqF09D4UTZwoBSRC8Y-18" value="Local is all gigabit ethernet&lt;span class=&quot;nowrap&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="350" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2VqF09D4UTZwoBSRC8Y-20" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1M_kGAEL0hxKsuEx9xzY-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="310" as="sourcePoint" />
+            <mxPoint x="500" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2VqF09D4UTZwoBSRC8Y-22" value="Other devices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="310" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
